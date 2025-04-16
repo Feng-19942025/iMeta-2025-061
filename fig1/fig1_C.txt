@@ -1,0 +1,15 @@
+1 https://new.metaboanalyst.ca/ModuleView.xhtml
+2 Statistical Analysis （One factor）
+3 A plain text file (.txt or .csv)
+4 Peak intensities
+5 Samples in columns (unpaired)
+6 Choose the excel
+7 Proceed
+8 Submit
+9 Proceed
+10 Sample normalization——None
+11 Data transformation——Log transformation (base 10)
+12 Data scaling——Mean centering	(mean-centered only)
+13 Principal Component Analysis (PCA)
+14 2D Scores Plot
+15 Synchronized 3D Plots
